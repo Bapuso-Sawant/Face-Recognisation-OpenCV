@@ -8,6 +8,10 @@ Train Model [Detect & Train].....
 ![](https://github.com/Bapuso-Sawant/Face-Recognisation-OpenCV/blob/master/Screenshot%20(817).png)
 
 
+
+
+
+
 Predict Model [Recognise].....
 
 ![](https://github.com/Bapuso-Sawant/Face-Recognisation-OpenCV/blob/master/Screenshot%20(823).png)
