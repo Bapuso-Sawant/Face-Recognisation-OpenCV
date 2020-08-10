@@ -25,7 +25,7 @@ def take_img():
             cv2.imshow("Frame",img)
         if cv2.waitKey(1) & 0xFF == ord('q'):
             break
-        elif sampleNum > 5:
+        elif sampleNum > 200:
             break
     cam.release()
     cv2.destroyAllWindows()
